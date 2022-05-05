@@ -18,14 +18,14 @@
 .boxhead {
     max-width: 800px;
     padding: 0px 5px;
-    margin: 0 auto;
+    margin: 0 auto 10px;
     box-sizing: border-box;
 }
 
 .boxmain {
     max-width: 780px;
     padding: 10px;
-    margin: 0px auto 15px;
+    margin: 0px auto;
     border-radius: 7px;
     border: 1px solid #b6b4b4;
     box-shadow: 1px 1px 1px #c6c3c3;
